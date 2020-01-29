@@ -33,7 +33,7 @@ We maked the web application scoring and grading the baseball players' abilities
 The method of scoring is subjectively determined by the normal distribution.\
 Also I refered to the formula for calculating the standard score for the CSAT.
 
-## Role What I took
+## What roles I took
 
 - 평가 공식 결정\
 / Determine the formula of scoring
